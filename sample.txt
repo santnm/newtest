@@ -1,0 +1,7 @@
+Benchmarking NoSQL Databases: Cassandra vs. MongoDB vs. HBase vs. Couchbase
+
+Understanding the performance behavior of a NoSQL database like Apache Cassandra™ under various conditions is critical. Conducting a formal proof of concept (POC) in the environment in which the database will run is the best way to evaluate platforms. POC processes that include the right benchmarks such as production configurations, parameters and anticipated data and concurrent user workloads give both IT and business stakeholders powerful insight about platforms under consideration and a view for how business applications will perform in production. 
+
+Independent benchmark analyses and testing of various NoSQL platforms under big data, production-level workloads have been performed over the years and have consistently identified Apache Cassandra as the platform of choice for businesses interested in adopting NoSQL as the database for modern Web, mobile and IOT applications. 
+
+One benchmark analysis (Solving Big Data Challenges for Enterprise Application Performance Management) by engineers at the University of Toronto, which in evaluating six different data stores, found Apache Cassandra the “clear winner throughout our experiments”. Also, End Point Corporation, a database and open source consulting company, benchmarked the top NoSQL databases including: Apache Cassandra, Apache HBase, Couchbase, and MongoDB using a variety of different workloads on AWS EC2.
